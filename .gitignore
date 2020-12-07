@@ -1,2 +1,6 @@
 .idea
-.idea
+vendor
+node_modules
+logs
+.env
+_ide_helper.php
